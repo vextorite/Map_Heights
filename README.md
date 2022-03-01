@@ -1,5 +1,5 @@
 # Map_Heights
-Finding low points in a matrix using both serial code and code that implements Fork-Join
+Finding low points in a matrix using both normal code and code that implements Fork-Join
 
 To run:
 
